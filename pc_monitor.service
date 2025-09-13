@@ -1,0 +1,16 @@
+[Unit]
+Description=PC Monitor ESP32
+After=network.target
+
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/bin/python3 /home/{NOME_DO_USOR}/{LOCAL_DO_CODIGO_PY}
+Restart=always
+RestartSec=5
+Nice=10
+IOSchedulingClass=2
+IOSchedulingPriority=4
+
+[Install]
+WantedBy=multi-user.target

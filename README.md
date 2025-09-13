@@ -17,6 +17,14 @@ A comunicação é feita através de um serviço no Arch Linux que envia os dado
 - **Arch Linux** para coleta de métricas do sistema  
 - **Python** (no serviço de envio dos dados)  
 - **Display TFT tátil resistivo de 2,8** 
+ 
+ ---
+
+### Definindo o monitoramente direto como um serviço
+
+- Crie o arquvio de serviço no /etc/systemd/system/pc_monitor.service
+- Execute: sudo systemctl enable pc_monitor.service para sempre ser executado no boot
+- Execute: sudo systemctl daemon-reload. instrui o systemd a recarregar as definições de serviços
 
 ---
 <p align="center">
