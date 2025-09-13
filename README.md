@@ -1,7 +1,7 @@
 # ESP32 - Monitoramento de Sistema
 
-Este projeto utiliza um **ESP32-2432S028** para coletar e exibir informações de um computador em tempo "real", são elas informações de CPU com uso e temperatura, RAM com uso, Disco com porcentagem de ocupação, GPU uso e temperatura, também exibe informações do user que executa o envio para a porta serial, versão do kernel e hora.  
-A comunicação é feita através de um serviço no Arch Linux que envia os dados para o ESP32 via Serial.
+Este projeto utiliza um **ESP32-2432S028** para coletar e exibir informações de um computador em tempo "real", são elas informações de CPU com uso e temperatura, RAM com uso, disco com porcentagem de ocupação, GPU uso e temperatura, também exibe informações do user que executa o envio para a porta serial, versão do kernel e hora.  
+A comunicação é feita através de um serviço no Arch Linux que envia os dados para o ESP32 via serial.
 
 ---
 
