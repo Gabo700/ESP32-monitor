@@ -20,8 +20,8 @@ A comunicação é feita através de um serviço no Arch Linux que envia os dado
 
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/721d5838-d09c-4551-a712-3942413bd957" width="280"/>
-  <img src="https://github.com/user-attachments/assets/97a8231f-3ee7-4eca-8d3f-cfb7436db9ce" width="280"/>
-  <img src="https://github.com/user-attachments/assets/56ee2c20-4158-4fc4-95a8-1f5d552de44c" width="280"/>
+  <img src="https://github.com/user-attachments/assets/721d5838-d09c-4551-a712-3942413bd957" width="150"/>
+  <img src="https://github.com/user-attachments/assets/97a8231f-3ee7-4eca-8d3f-cfb7436db9ce" width="150"/>
+  <img src="https://github.com/user-attachments/assets/56ee2c20-4158-4fc4-95a8-1f5d552de44c" width="150"/>
 </p>
 
